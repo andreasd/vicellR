@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/252146142.svg)](https://zenodo.org/badge/latestdoi/252146142)
+
 # Introduction
 
 ViCellR is a library for R, which reads ViCell-txt-files into R, and can generate batch figures, calculate growth rates and specific productivities.
