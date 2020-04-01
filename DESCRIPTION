@@ -1,7 +1,7 @@
 Package: vicellR
 Type: Package
 Title: ViCell R analysis
-Version: 1.0.0
+Version: 1.0.1
 Author: Andreas Diendorfer, Gerald Klanert
 Maintainer: Andreas Diendorfer <andreas.diendorfer@boku.ac.at>
 Description: Please see the public repository for details https://github.com/andreasd/vicellR/r
