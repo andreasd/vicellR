@@ -1,0 +1,14 @@
+Package: vicellR
+Type: Package
+Title: ViCell R analysis
+Version: 1.0.0
+Author: Andreas Diendorfer, Gerald Klanert
+Maintainer: Andreas Diendorfer <andreas.diendorfer@boku.ac.at>
+Description: Please see the public repository for details https://github.com/andreasd/vicellR/r
+License: GPL
+Imports:
+    lubridate,
+    ggplot2,
+    xlsx
+Encoding: UTF-8
+LazyData: true
